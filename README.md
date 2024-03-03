@@ -2,13 +2,13 @@
 
 ## Current state:
 
-Used and modified NavBar template from Tailwind
-Used Template for Footer
-Made a notes input to make a Note
+Used and modified NavBar template from Tailwind <br/>
+Used Template for Footer<br/>
+Made a notes input to make a Note<br/>
 
 ## Missing:
-Routes
-Login sistem
-Front page for notes
-Connect to backend
-About page
+Routes<br/>
+Login sistem<br/>
+Front page for notes<br/>
+Connect to backend<br/>
+About page<br/>
